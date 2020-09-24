@@ -20,8 +20,8 @@
 
 ## GitHub Stats
 
-![Branden's github stats](https://github-readme-stats.vercel.app/api?username=BGoldenberg161&theme=graywhite&show_icons=true&hide=issues)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BGoldenberg161&layout=compact&theme=graywhite)
+![Branden's github stats](https://github-readme-stats.vercel.app/api?username=BGoldenberg161&theme=graywhite&show_icons=true&hide=issues&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BGoldenberg161&layout=compact&theme=graywhite&hide_border=true)
 
 
 <!--
