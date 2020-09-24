@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bgoldenberg161/)](https://www.linkedin.com/in/bgoldenberg161/)
 
 ![Branden's github stats](https://github-readme-stats.vercel.app/api?username=BGoldenberg161&theme=graywhite&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BGoldenberg161&layout=compact&theme=graywhite)
