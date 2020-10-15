@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bgoldenberg161/)](https://www.linkedin.com/in/bgoldenberg161/)
+See my LinkedIn here: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bgoldenberg161/)](https://www.linkedin.com/in/bgoldenberg161/)
 
 ## Technologies I Use
 
