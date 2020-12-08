@@ -25,7 +25,7 @@ See my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat
 
 ## GitHub Stats
 
-![Branden's github stats](https://github-readme-stats.vercel.app/api?username=BGoldenberg161&theme=graywhite&show_icons=true&hide=issues&hide_border=true)  
+![Branden's github stats](https://github-readme-stats.vercel.app/api?username=BGoldenberg161&theme=graywhite&show_icons=true&hide=issues&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BGoldenberg161&layout=compact&theme=graywhite&hide_border=true)
 
 
