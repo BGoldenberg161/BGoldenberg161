@@ -22,6 +22,8 @@ See my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=FFFFFF)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
 ## GitHub Stats
 
