@@ -24,6 +24,7 @@ See my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ## GitHub Stats
 
